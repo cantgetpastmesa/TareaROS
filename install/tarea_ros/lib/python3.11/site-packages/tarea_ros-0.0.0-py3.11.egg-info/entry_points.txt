@@ -1,0 +1,2 @@
+[console_scripts]
+publisherNode = tarea_ros.publisherNode:main
