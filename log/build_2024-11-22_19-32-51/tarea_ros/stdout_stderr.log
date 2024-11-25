@@ -1,0 +1,26 @@
+/Users/felipemesa/miniconda3/envs/ros2/lib/python3.11/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+writing build/tarea_ros/tarea_ros.egg-info/PKG-INFO
+writing dependency_links to build/tarea_ros/tarea_ros.egg-info/dependency_links.txt
+writing entry points to build/tarea_ros/tarea_ros.egg-info/entry_points.txt
+writing requirements to build/tarea_ros/tarea_ros.egg-info/requires.txt
+writing top-level names to build/tarea_ros/tarea_ros.egg-info/top_level.txt
+reading manifest file 'build/tarea_ros/tarea_ros.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/tarea_ros/tarea_ros.egg-info/SOURCES.txt'
+running build
+running build_py
+copying tarea_ros/__init__.py -> /Users/felipemesa/miniconda3/envs/ros2/src/tarea_ros/build/tarea_ros/build/lib/tarea_ros
+copying tarea_ros/publisherNode.py -> /Users/felipemesa/miniconda3/envs/ros2/src/tarea_ros/build/tarea_ros/build/lib/tarea_ros
+running install
+running install_lib
+running install_data
+copying resource/tarea_ros -> /Users/felipemesa/miniconda3/envs/ros2/src/tarea_ros/install/tarea_ros/share/ament_index/resource_index/packages
+copying package.xml -> /Users/felipemesa/miniconda3/envs/ros2/src/tarea_ros/install/tarea_ros/share/tarea_ros
+running install_egg_info
+removing '/Users/felipemesa/miniconda3/envs/ros2/src/tarea_ros/install/tarea_ros/lib/python3.11/site-packages/tarea_ros-0.0.0-py3.11.egg-info' (and everything under it)
+Copying build/tarea_ros/tarea_ros.egg-info to /Users/felipemesa/miniconda3/envs/ros2/src/tarea_ros/install/tarea_ros/lib/python3.11/site-packages/tarea_ros-0.0.0-py3.11.egg-info
+running install_scripts
+Installing publisherNode script to /Users/felipemesa/miniconda3/envs/ros2/src/tarea_ros/install/tarea_ros/lib/tarea_ros
+writing list of installed files to '/Users/felipemesa/miniconda3/envs/ros2/src/tarea_ros/build/tarea_ros/install.log'
